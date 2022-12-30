@@ -3,7 +3,7 @@
         "test": "mocha"
     },
     "dependencies": {
-        "mocha": "^6.2.0",
+        "mocha": "^10.2.0",
         "rectangle-overlap": "^2.0.0",
         "rectangles-intersect": "0.0.0"
     }
